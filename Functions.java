@@ -4,7 +4,6 @@ public class Functions {
     sub(a, 10);
     a = 50;
     sub(10, a);
-
   }
 
   public static int add(int x, int y) { // arguments // function decleration
