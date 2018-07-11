@@ -19,7 +19,7 @@ public class MyCalculationTwo extends Calculation { // Sub Class // Child Class
   }
 
   public void wrapperMethod() {
-    super.add(10, 20);
+    super.add(10, 20); // super here is object
   }
 
   public static void main(String[] args) {
